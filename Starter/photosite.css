@@ -67,19 +67,3 @@ li {
   width: 30%;
   font-style: normal;
 }
-
-.socials img {
-  max-height: 30px;
-  max-width: 30px;
-  display: inline;
-  padding: 0;
-  margin-top: 25px;
-  margin-right: calc(10% / 6);
-}
-
-.socials img:hover {
-  background-color: black;
-  color: white;
-  border-radius: 15%;
-  transition: 0.3s;
-}
